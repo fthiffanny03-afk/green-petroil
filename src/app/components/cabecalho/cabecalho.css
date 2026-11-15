@@ -1,0 +1,18 @@
+.topo {
+  background: #14472d;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 0.9rem 1.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.logo { color: #fff; font-size: 1.4rem; font-weight: 700; text-decoration: none; }
+ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+nav a { color: #fff; text-decoration: none; padding: 0.5rem 0.9rem; border-radius: 999px; display: inline-block; }
+nav a:hover, nav a:focus-visible { background: rgba(255, 255, 255, 0.18); }
+nav a.ativo { background: #f2b705; color: #14281d; font-weight: 700; }

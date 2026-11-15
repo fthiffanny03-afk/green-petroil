@@ -1,9 +1,10 @@
-<header>
-  <nav>
+<header class="topo">
+  <a routerLink="/" class="logo">Green Petroil</a>
+  <nav aria-label="Menu principal">
     <ul>
-      <li><a routerLink="/">Início</a></li>
-      <li><a routerLink="/sobre">Sobre</a></li>
-      <li><a routerLink="/projetos-sociais">Projetos sociais</a></li>
+      <li><a routerLink="/" routerLinkActive="ativo" [routerLinkActiveOptions]="{ exact: true }">Início</a></li>
+      <li><a routerLink="/sobre" routerLinkActive="ativo">Sobre</a></li>
+      <li><a routerLink="/projetos-sociais" routerLinkActive="ativo">Projetos sociais</a></li>
     </ul>
   </nav>
 </header>

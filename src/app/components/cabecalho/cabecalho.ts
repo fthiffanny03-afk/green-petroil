@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
-import { RouterLink } from '@angular/router';
+import { RouterLink, RouterLinkActive } from '@angular/router';
 
 @Component({
-  imports: [RouterLink],
   selector: 'app-cabecalho',
-  styleUrl: './cabecalho.css',
+  imports: [RouterLink, RouterLinkActive],
   templateUrl: './cabecalho.html',
+  styleUrl: './cabecalho.css',
 })
 export class Cabecalho {}

@@ -31,19 +31,19 @@
     "id": 1,
     "nome": "Escola Verde",
     "descricao": "Educação ambiental para crianças de comunidades vizinhas às nossas operações.",
-    "imagem": "https://picsum.photos/seed/projeto1/600/400"
+    "imagem": "https://pmspa.rj.gov.br/wp-content/uploads/2024/10/Projeto-EcoEscola-20.jpeg"
   },
   {
     "id": 2,
     "nome": "Reflorestar Mais",
     "descricao": "Plantio de mudas nativas em áreas degradadas, com participação de voluntários.",
-    "imagem": "https://picsum.photos/seed/projeto2/600/400"
+    "imagem": "https://parqueecologicoimigrantes.org.br/wp-content/uploads/2024/05/mudas.png"
   },
   {
     "id": 3,
     "nome": "Energia para Todos",
     "descricao": "Capacitação profissional de jovens para o setor de energia limpa.",
-    "imagem": "https://picsum.photos/seed/projeto3/600/400"
+    "imagem": "https://lh6.googleusercontent.com/m8UShYk_i98YTtLZhRKysk-TIpI7c5MXFUdTn4WZcdNgZB65mKUql14CVl_cU_kW83qO0HPORRFtljEWWi4RJC9zHIc8ice-6ziCQJla1ktkjj-6sjla_kE7sC8-VFto3r1SjLjQN4zb"
   }
 ]
 }
