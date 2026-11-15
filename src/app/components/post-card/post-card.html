@@ -1,0 +1,9 @@
+<article class="card">
+  <img [src]="post().imagem" [alt]="post().titulo" />
+  <div class="card-corpo">
+    <h3>{{ post().titulo }}</h3>
+    <time>{{ post().data }}</time>
+    <p>{{ post().resumo }}</p>
+    <a [routerLink]="['/post', post().id]">Ler mais</a>
+  </div>
+</article>

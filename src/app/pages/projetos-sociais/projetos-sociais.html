@@ -1,0 +1,10 @@
+<app-titulo-pagina
+  titulo="Projetos sociais"
+  subtitulo="Ações da Green Petroil que transformam comunidades e cuidam do meio ambiente."
+/>
+
+<section class="lista-projetos">
+  @for (projeto of projetos(); track projeto.id) {
+    <app-projeto-card [projeto]="projeto" />
+  }
+</section>

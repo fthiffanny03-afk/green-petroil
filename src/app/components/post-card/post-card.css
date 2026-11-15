@@ -1,0 +1,12 @@
+.card {
+  background: #fff; border-radius: 12px; overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  display: flex; flex-direction: column; height: 100%;
+}
+.card img { width: 100%; height: 180px; object-fit: cover; }
+.card-corpo { padding: 1rem; display: flex; flex-direction: column; gap: 0.5rem; flex: 1; }
+.card h3 { margin: 0; color: #1b5e3b; }
+.card time { font-size: 0.85rem; color: #555; }
+.card p { margin: 0; }
+.card a { margin-top: auto; color: #1b5e3b; font-weight: 700; }
+.card a:hover, .card a:focus { text-decoration: underline; }

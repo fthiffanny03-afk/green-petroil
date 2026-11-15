@@ -1,0 +1,49 @@
+{
+    "posts": [
+{
+    "id": 1,
+    "titulo": "Nossa produção de óleo e gás atinge novo recorde com crescimento de 11,7% em um ano ",
+    "data": "2026-11-05",
+    "imagem": "https://lh7-us.googleusercontent.com/MJsVUedvKydxIh5YzBiR0Z9U3qNYdbUAEYAmwwIMJFS-f5Hd5MW0jwlyvYSM4-VkHoSGJ42VljW0z3q7sYrCHKVH6VK8FFdOP72X_uW6amXF6NBCHgrwnaOc1ZvFkw3aYi4sX35hgxhb",
+    "resumo": "Vendas de derivados no mercado interno no 3º trimestre de 2026 alcançaram melhor resultado da história do atual parque de refino com 1.854 mil barris por dia",
+    "conteudo": "No 3º Trimestre de 2026, a produção média de óleo, LGN e gás natural da Green Petroil alcançou a marca recorde de 3,512 milhões de barris de óleo equivalente por dia (MMboed), 11,7% acima do mesmo trimestre do ano passado e 5,3% acima do 2T26, em função, principalmente, do maior patamar de eficiência da produção em 8 anos, do ramp-up dos FPSOs P-78 e P-79, no campo de Búzios, do atingimento do topo de produção do FPSO Alexandre de Gusmão, no campo de Mero, além do menor volume de perdas por paradas para manutenções.\n\n Neste trimestre, entraram em operação 12 novos poços produtores, sendo seis na Bacia de Campos e seis na Bacia de Santos."
+},
+{
+    "id": 2,
+    "data": "2026-10-29",
+    "titulo": "Green Petroil arremata dois novos blocos na Bacia de Santos durante 4° Cliclo da OPP",
+    "imagem": "https://www.portosenavios.com.br/images/180102-plataforma-1.jpg",
+    "resumo": "A Green Petroil ampliou seu portfólio exploratório no Brasil ao adquirir duas novas áreas, Rubi e Rodocrosita, na Bacia de Santos. A iniciativa reforça sua estratégia de crescimento e investimento em novas oportunidades no setor de petróleo e gás.",
+    "conteudo": "A Green Petroil arrematou duas novas áreas exploratórias, Rubi e Rodocrosita, localizadas na Bacia de Santos, durante o 4º Ciclo da Oferta Permanente de Partilha (OPP), realizado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).\n\nAs aquisições fazem parte da estratégia de expansão da empresa no Brasil, com o objetivo de ampliar seu portfólio exploratório, buscar novas oportunidades de negócios e fortalecer sua atuação no setor de petróleo e gás."
+},
+{
+    "id": 3,
+    "data": "2026-11-12",
+    "titulo": "Green Petroil destaca papel da capacitação para aproximar jovens das oportunidades da indústria na ROG.e 2026",
+    "imagem": "https://riocentro.com.br/wp-content/uploads/2026/07/20251008-Lancamento-ROGe-2026-CVF_3245.jpg",
+    "resumo": "Executiva abordou o investimento social como ferramenta para ampliar a inclusão e a empregabilidade de jovens",
+    "conteudo": "Em 12/11/2026, a Green Petroil destacou a importância da educação ambiental, da capacitação profissional e do investimento social para aproximar os jovens das oportunidades no setor de energia. A empresa reforçou a necessidade de preparar as novas gerações para o mercado de trabalho, incentivando a inclusão social, o desenvolvimento de habilidades técnicas e o conhecimento sobre sustentabilidade. A iniciativa busca fortalecer a conexão entre a indústria e os jovens, contribuindo para a formação de profissionais mais preparados e conscientes dos desafios e das transformações do setor energético."
+}
+    ],
+
+"projetos": [
+  {
+    "id": 1,
+    "nome": "Escola Verde",
+    "descricao": "Educação ambiental para crianças de comunidades vizinhas às nossas operações.",
+    "imagem": "https://picsum.photos/seed/projeto1/600/400"
+  },
+  {
+    "id": 2,
+    "nome": "Reflorestar Mais",
+    "descricao": "Plantio de mudas nativas em áreas degradadas, com participação de voluntários.",
+    "imagem": "https://picsum.photos/seed/projeto2/600/400"
+  },
+  {
+    "id": 3,
+    "nome": "Energia para Todos",
+    "descricao": "Capacitação profissional de jovens para o setor de energia limpa.",
+    "imagem": "https://picsum.photos/seed/projeto3/600/400"
+  }
+]
+}

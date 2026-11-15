@@ -1,0 +1,8 @@
+<section class="feed">
+  <h1>Últimas notícias</h1>
+  <div class="grade">
+    @for (post of posts(); track post.id) {
+      <app-post-card [post]="post" />
+    }
+  </div>
+</section>
